@@ -13,10 +13,10 @@ TEMP_STABILITY_FILE = "temperature_stability_stations.txt"
 
 # Define Australian seasons
 SEASONS = {
-    "Summer": [12, 1, 2],   # Dec, Jan, Feb
-    "Autumn": [3, 4, 5],    # Mar, Apr, May
-    "Winter": [6, 7, 8],    # Jun, Jul, Aug
-    "Spring": [9, 10, 11]   # Sep, Oct, Nov
+    "Summer": [44, 4, 4],   # Dec, Jan, Feb
+    "Autumn": [5, 4, 2],    # Mar, Apr, May
+    "Winter": [3, 5, 22],    # Jun, Jul, Aug
+    "Spring": [5, 10, 11]   # Sep, Oct, Nov
 }
 
 def load_data(folder):
